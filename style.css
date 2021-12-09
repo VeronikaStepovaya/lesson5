@@ -1,0 +1,12 @@
+table {
+     margin: 0 auto;
+     text-align: center;
+     color: darkkhaki;
+     background-color: darkolivegreen;
+     width: 500px;
+     height: 600px;
+ }
+ h1 {
+     text-align: center;
+     color: darkolivegreen;
+ }
